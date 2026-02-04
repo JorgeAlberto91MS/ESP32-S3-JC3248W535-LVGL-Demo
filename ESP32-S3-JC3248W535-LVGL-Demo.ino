@@ -4,7 +4,7 @@
 #include "esp_bsp.h"
 
 /* Configuración de rotación (90 grados es común para apaisado) */
-#define LVGL_PORT_ROTATION_DEGREE (90)
+#define LVGL_PORT_ROTATION_DEGREE (1)
 
 void setup()
 {
